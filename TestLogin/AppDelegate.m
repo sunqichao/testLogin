@@ -7,11 +7,14 @@
 //
 
 #import "AppDelegate.h"
+#import "UMSocial.h"
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    [UMSocialData setAppKey:@"507fcab25270157b37000010"];
+
     // Override point for customization after application launch.
     return YES;
 }
