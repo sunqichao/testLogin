@@ -728,6 +728,7 @@
 				E71E55F218842A47005869EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E71E55F318842A47005869EA /* Build configuration list for PBXNativeTarget "TestLoginTests" */ = {
 			isa = XCConfigurationList;
@@ -736,6 +737,7 @@
 				E71E55F518842A47005869EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
